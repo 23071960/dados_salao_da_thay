@@ -28,4 +28,6 @@ try {
     } catch (error) {
         console.error("❌ Erro inesperado ao verificar conexão:", error.message);
     }
-})();
+})
+();
+
